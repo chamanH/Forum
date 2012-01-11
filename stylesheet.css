@@ -1,0 +1,38 @@
+div.Container
+{	
+	width: 600px;
+	height:100%;
+	border-color:purple;
+	border-width: 15px;
+	border-style: ridge;
+	margin: 0 auto 1px auto;
+	padding: 0;
+	background: red;
+}
+
+div.Header
+{ 	
+	height: 100px;
+	background: blue;
+	color:red;
+}
+
+div.Center
+{
+	background: yellow;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+div.Footer
+{
+	height: 50px;
+	background:pink;
+	color: red;
+}
+
+body
+{
+	background: green;	
+}
+
